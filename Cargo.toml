@@ -9,5 +9,5 @@ license = "MIT"
 serde = { version = "1.0.210", features = ["derive"] }
 
 [[bin]]
-name = "increment_value"
-path = "src/bin/increment_value.rs"
+name = "main"
+path = "src/bin/main.rs"
