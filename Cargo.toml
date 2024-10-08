@@ -1,0 +1,13 @@
+[package]
+name = "spa-json"
+version = "0.1.0"
+edition = "2021"
+description = "A parser for the SPA-JSON format, a superset of JSON"
+license = "MIT"
+
+[dependencies]
+serde = { version = "1.0.210", features = ["derive"] }
+
+[[bin]]
+name = "increment_value"
+path = "src/bin/increment_value.rs"
