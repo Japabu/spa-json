@@ -118,7 +118,7 @@ Please ensure that your code follows the existing style and includes appropriate
 
 ## License
 
-This project is licensed under [INSERT LICENSE HERE]. See the LICENSE file for details.
+This project is licensed under the "Do Whatever You Want" License (DWYW). See the LICENSE file for details.
 
 ## Acknowledgements
 
