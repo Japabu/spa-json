@@ -123,3 +123,7 @@ This project is licensed under the "Do Whatever You Want" License (DWYW). See th
 ## Acknowledgements
 
 This project is inspired by and designed to work with the WirePlumber project. Special thanks to the WirePlumber community for their work on the SPA-JSON format and configuration system.
+
+## Project Generation
+
+This project was completely generated with the help of aider and Anthropic's language model. The entire codebase, documentation, and project structure were created through AI-assisted development, showcasing the potential of AI in software engineering.
